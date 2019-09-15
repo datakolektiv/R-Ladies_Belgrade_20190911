@@ -2,3 +2,9 @@
 R-Ladies Belgrade Meetup, September 11, 2019. Startit Center, Belgrade.
 
 R Markdown (.Rmd, rendered .html) + slide deck for the R-Ladies Belgrade Meetup, September 11, 2019.
+
+![](R-Ladies_Meetup_20190911_1.jpg)
+
+![](Wikidata-logo-en.png)
+![](DK_Logo_100.png)
+
